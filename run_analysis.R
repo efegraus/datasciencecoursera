@@ -20,9 +20,6 @@ unzip("./data/courseprojectdata.zip")
 # Load Datasets
 # Question 1: Merges the training and the test sets to create one data set.
 # Load Training and Test Labels
-a <- colnames(mean_std_data)
-b <- a[2:87]
-
 
 # Load Trianing and Test X Training Sets
 # First Load Labels
