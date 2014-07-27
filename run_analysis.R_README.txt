@@ -1,8 +1,6 @@
 run_analysis.r
-To run the script run_analysis.R simply download it, set your working directory in R and run the script.
-
-Tidy Data
-The Human Activity Recognition (HAR) Using Smartphones dataset creators, originators and proper citations are below. This script run_analysis.R creates the means for all the mean and std variables (i.e., essentially a mean of means and mean of stds table) included in the UCI HAR Datatset. The table is cross-tabbed by Subject and Activity label. 
+ To run the script run_analysis.R simply download it, set your working directory in R and run the script. Comments in the script will walk you through the trans
+The Human Activity Recognition (HAR) Using Smartphones dataset creators, originators and proper citations are below. This script run_analysis.R creates the means for all the mean and std variables (i.e., essentially a mean of means and mean of stds table) included in the UCI HAR Datatset. It is a data transformation script. The output table is cross-tabbed by Subject and Activity label. 
 
 Tidy Data Table Column Names
 "x"
